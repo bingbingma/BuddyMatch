@@ -10,7 +10,7 @@ let buddies = [
     photo:
       "https://www.rollingstone.com/wp-content/uploads/2019/04/lil-nas-x.jpg?crop=900:600&width=440",
     scores: [4, 3, 2, 1, 5, 1, 4, 3, 4, 5]
-  }
+  },
   {
     name: "Arianna Grande",
     photo:
