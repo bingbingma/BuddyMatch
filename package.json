@@ -1,0 +1,31 @@
+{
+  "name": "buddymatch",
+  "version": "1.0.0",
+  "description": "buddymatch friend matcher",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingbingma/BuddyMatch.git"
+  },
+  "keywords": [
+    "friendfinder",
+    "buddymatch",
+    "dating",
+    "survey",
+    "questions"
+  ],
+  "author": "david ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bingbingma/BuddyMatch/issues"
+  },
+  "homepage": "https://github.com/bingbingma/BuddyMatch#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}
