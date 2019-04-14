@@ -1,4 +1,4 @@
-let buddies = [
+let friends = [
   {
     name: "Ahmed",
     photo:
@@ -18,3 +18,5 @@ let buddies = [
     scores: [5, 5, 1, 5, 1, 1, 4, 3, 4, 5]
   }
 ];
+
+module.exports = friends;
