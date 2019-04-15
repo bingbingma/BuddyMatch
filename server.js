@@ -5,8 +5,6 @@ const path = require("path");
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.listen(port, () => console.log("Listing on port %s", port));
-
 //loads body parser? (allows url parsing?)
 app.use(bodyParser.json());
 //url encoded == true what does this mean? A: apparently it allows extended objects
