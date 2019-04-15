@@ -12,7 +12,7 @@ let friends = [
     scores: [4, 3, 2, 1, 5, 1, 4, 3, 4, 5]
   },
   {
-    name: "Arianna Grande",
+    name: "Ariana Grande",
     photo:
       "https://ichef.bbci.co.uk/news/660/cpsprodpb/339B/production/_103611231_gettyimages-966528980.jpg",
     scores: [5, 5, 1, 5, 1, 1, 4, 3, 4, 5]
